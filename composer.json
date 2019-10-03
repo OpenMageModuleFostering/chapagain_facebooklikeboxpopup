@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Chapagain_FacebookLikeBoxPopup",
+    "name": "OpenMageModuleFostering\/Chapagain_FacebookLikeBoxPopup",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "This extension allows Facebook Like Box to popup on page load and also display the like box on left and right sidebar.",
     "authors": [
-    {
-        "name": "Mukesh Chapagain",
-        "email": "mukesh.chapagain@gmail.com"
-    }
-],
+        {
+            "name": "Mukesh Chapagain",
+            "email": "mukesh.chapagain@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
